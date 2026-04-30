@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-30 12:02 (IR Time)
+- 📥 **[masterdnsvpn-HN-1.2.2-arm64-v8a-release.apk](https://github.com/B4LUCH/sandbox/raw/main/dl/masterdnsvpn-HN-1.2.2-arm64-v8a-release.apk)**
+
+
 ### 📅 2026-04-30 11:46 (IR Time)
 - 📥 **[MasterDnsVPN_Server_Termux_ARM64.zip](https://github.com/B4LUCH/sandbox/raw/main/dl/MasterDnsVPN_Server_Termux_ARM64.zip)**
 
